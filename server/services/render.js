@@ -1,5 +1,5 @@
 const axios = require('axios');
-
+const PORT = process.env.PORT || 8080
 
 exports.homeRoutes = (req, res) => {
     axios.get(`http://localhost:${PORT}/api/users`)
