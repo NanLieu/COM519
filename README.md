@@ -6,7 +6,7 @@ In this project, I have created a simple application to create, read, update and
 npm install
 ```
 
-Next you will have to create a config.env file and place this in the phoneprojectv4 folder.
+Next you will have to create a config.env file and place this in the phoneproject folder.
 
 Inside the config.env file copy the following
 ```
